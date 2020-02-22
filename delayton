@@ -1,0 +1,27 @@
+ 
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>DelayTon</title>
+      <meta name="description" content="A very good 'social media' for a school project" />
+      <meta name="keywords" content="DelayTon" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style type="text/css">
+         body {
+            background-color: #23272a;
+            color: #ffffff;
+         }
+         div.a {
+          text-align: center;
+         }
+         div.a p, div.a h1{
+            font-family: Arial, garamond, sans-serif;
+            font-size: 17px;
+            font-weight: bold;
+         }
+         h1{
+           font-size: 60px !important; 
+         } 
+         a{
+            color: rgb(0,255,0);  
+         }
