@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>DelayTon</title>
+    <meta name="description" content="A very good 'social media' for a school project" />
+    <meta name="keywords" content="DelayTon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+        body {
+        color: #ffffff;
+        }
+        div.a {
+        text-align: center;
+        }
+        div.a h1{
+        font-family: 'Pacifico', serif;
+        font-size: 17px;
+        font-weight: bold;
+        }
+        div.a p{
+        font-family: Arial, garamond, sans-serif;
+        font-size: 17px;
+        font-weight: bold;
+        }
+        h1{
+        font-size: 60px !important; 
+        } 
+        a{
+        color: rgb(0,255,0);  
+        }
+body {
+  background-image: url('DelayTon.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+    </style>
+</head>
+   <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+<body>
+    <div class="a">
+        <header>
+        <h1>
+            DelayTon
+        </h1>
+        </header>
+        <p>
+            Welcome to DelayTon, A totally legit social media!
+        </p>
+        <img src="Child.png" alt="If you can see this email me" title="ChildWorkerChildinPain">
+        <img src="HASS BASE.png" alt="If you can see this email me" title="TheRealSmoothCriminal">
+        <img src="McDonald.png" alt="If you can see this email me" title="McDonald_EIEIO">
+        <img src="WaitWatt.png" alt="If you can see this email me" title=waitwatt_??">
+    </div>
+</body>
+
+</html>
