@@ -1,4 +1,5 @@
 body {
+        background-color: #23272a;
         color: #ffffff;
         }
         div.a {
@@ -28,9 +29,5 @@ body {
         div.b {
         text-align: center;
         }
-  background-image: url('https://someonpc.github.io/DelayTon.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
         * {cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1161.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1161.png), auto;}
 }
