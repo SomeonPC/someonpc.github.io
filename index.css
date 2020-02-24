@@ -15,13 +15,14 @@ body {
         font-size: 17px;
         font-weight: normal;
         }
-        div.a small{
+        a{
+        color: rgb(0,255,0);  
+        }
+        div.b small{
         font-family: 'Lexend Exa', serif;
         font-size: 12px;
         font-weight: normal;
-        }
-        a{
-        color: rgb(0,255,0);  
+        style="position: absolute; bottom;
         }
         * {cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1161.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1161.png), auto;}
   background-image: url('DelayTon.jpeg');
