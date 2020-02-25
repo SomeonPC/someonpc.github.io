@@ -69,7 +69,7 @@ body {
 body {
   background-image: url("Border.png");
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: right;
   background-attachment: scroll;
   background-size: 100% 10%;
 }
