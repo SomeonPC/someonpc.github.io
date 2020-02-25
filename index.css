@@ -70,5 +70,7 @@ body {
   background-image: url("Border.png");
   background-repeat: no-repeat;
   background-position: right top;
+  background-attachment: scroll;
+  background-size: 50% 100%;
 }
 }
