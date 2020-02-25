@@ -66,11 +66,4 @@ body {
       .col-11 {width: 91.66%;}
       .col-12 {width: 100%;}
          }
-body {
-  background-image: url("Border.png");
-  background-repeat: no-repeat;
-  background-position: right;
-  background-attachment: scroll;
-  background-size: 100% 10%;
-}
 }
