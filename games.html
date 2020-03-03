@@ -1,0 +1,54 @@
+ 
+<!DOCTYPE html>
+<html>
+
+    <title>SomeonPC</title>
+    <meta name="description" content="A game made by SomeonPC!" />
+    <meta name="keywords" content="SomeonPC" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Lexend+Exa&display=swap" rel="stylesheet">
+    <meta name="google-site-verification" content="WoN4z3ne1CpQrqC2bDreXw4ziCI9gg7H0XdfxfKOy2M" />
+
+<body>
+    <head>
+        <link rel="stylesheet" type="text/css" href="index.css">
+    </head>
+    <div class="a">
+        <header>
+            <h1>
+                SomeonPC
+            </h1>
+        </header>
+        <p>
+            Hello! My name is SomeonPC, I do lots of... stuff on the internet and this is a game called (insert name here)
+        </p>
+        
+        function startGame() {
+  myGamePiece = new component(30, 30, "red", 10, 120);
+  myGamePiece.gravity = 0.05;
+  myScore = new component("30px", "Consolas", "black", 280, 40, "text");
+  myGameArea.start();
+}
+
+var myGameArea = {
+  canvas : document.createElement("canvas"),
+  start : function() {
+    this.canvas.width = 480;
+    this.canvas.height = 270;
+    this.context = this.canvas.getContext("2d");
+    document.body.insertBefore(this.canvas, document.body.childNodes[0]);
+    this.frameNo = 0;
+  },
+  clear : function() {
+    this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+  }
+}
+    </div>
+    <div class="b">
+        <footer>
+            <small>&copy; Copyright <script>document.write( new Date().getFullYear() );</script>, SomeonPC</small>
+        </footer>
+    </div>
+</body>
+
+</html>
