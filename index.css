@@ -1,3 +1,9 @@
+body {
+  background-image: url("bg-crosshatch.png");
+  background-color: #23272a;
+  background-repeat: repeat;
+}
+
 div.a {
 text-align: center;
 }
