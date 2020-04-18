@@ -15,6 +15,11 @@ font-size: 10vw;
 font-weight: bold;
 }
 
+div.a h2{
+font-size: 8vw;
+font-weight: bold;
+}
+
 div.a p1{
 font-size: 5vw;
 font-weight: normal;
