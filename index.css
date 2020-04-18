@@ -1,7 +1,8 @@
 body {
+  color: white;
   background-image: url("bg-crosshatch.png");
-  background-color: #23272a;
   background-repeat: repeat;
+  background-color: #23272a;
 }
 
 div.a {
