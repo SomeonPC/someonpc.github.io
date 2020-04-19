@@ -5,18 +5,6 @@ body {
   background-color: #23272a;
 }
 
-<style>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
-}
-</style>
-
 div.a {
 text-align: center;
 font-family: 'Lexend Exa', sans-serif;
@@ -31,7 +19,3 @@ div.a p1{
 font-size: 6vw;
 font-weight: normal;
 }
-
-<div class="footer">
-  <p>Footer</p>
-</div>
