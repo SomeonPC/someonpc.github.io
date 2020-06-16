@@ -1,11 +1,11 @@
 body {
   color: white;
-  background-repeat: repeat;
+  background-image: linear-gradient(blue, violet);
   background-color: #23272a;
 }
 
 #grad {
-  background-image: linear-gradient(blue, violet);
+  background-repeat: repeat;
 }
 
 div.a {
