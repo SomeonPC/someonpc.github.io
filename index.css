@@ -1,8 +1,11 @@
 body {
   color: white;
-  background-image: url("bg-crosshatch.png");
   background-repeat: repeat;
   background-color: #23272a;
+}
+
+#grad {
+  background-image: linear-gradient(blue, violet);
 }
 
 div.a {
