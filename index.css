@@ -3,6 +3,7 @@ body {
   background-image: linear-gradient(blue, violet);
   background-repeat: no-repeat;
   background-color: #23272a;
+  background-attachment: fixed;
 }
 
 div.a {
