@@ -6,19 +6,26 @@ body {
   background-attachment: fixed;
 }
 
-div.a {
+div.text {
 text-align: center;
 font-family: 'Lexend Exa', sans-serif;
 }
 
-div.a h1{
+div.text h1{
 font-size: 9vw;
 font-weight: bold;
 }
 
-div.a p1{
+div.text p1{
 font-size: 6vw;
 font-weight: normal;
+}
+
+div.socials {
+  align: center;
+  position: absolute;
+  bottom: 10px;
+  width: 50%;
 }
 
 #overlay {
