@@ -16,11 +16,11 @@ body {
  div.text p1{
      font-size: 6vw;
      font-weight: normal;
-}
- div.socials {
-     position: absolute;
-     bottom: 10px;
-     width: 50%;
+
+.socials {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
  #overlay {
      position: fixed;
