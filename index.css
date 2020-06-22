@@ -6,8 +6,14 @@ body {
      background-attachment: fixed;
 }
 
-div.text {
+.rectangle {
   background-color: #23272a;
+  color: white;
+  margin: 2vw;
+  height: 90vw;
+  width: 90vw;
+}
+div.text {
   color: white;
   margin: 2vw;
   padding: 0.5vw;
