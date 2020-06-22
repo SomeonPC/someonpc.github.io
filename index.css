@@ -13,12 +13,6 @@ body {
   height: 90vw;
   width: 90vw;
 }
-div.text {
-  color: white;
-  margin: 2vw;
-  padding: 0.5vw;
-}
-
  div.text {
      text-align: center;
      font-family: 'Lexend Exa', sans-serif;
