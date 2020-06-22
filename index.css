@@ -6,13 +6,6 @@ body {
      background-attachment: fixed;
 }
 
-.rectangle {
-  background-color: #23272a;
-  color: white;
-  margin: 2vw;
-  height: 90vw;
-  width: 90vw;
-}
  div.text {
      text-align: center;
      font-family: 'Lexend Exa', sans-serif;
