@@ -5,6 +5,14 @@ body {
      background-color: #23272a;
      background-attachment: fixed;
 }
+
+div.text {
+  background-color: black;
+  color: white;
+  margin: 5vw;
+  padding: 5vw;
+}
+
  div.text {
      text-align: center;
      font-family: 'Lexend Exa', sans-serif;
@@ -17,7 +25,7 @@ body {
      font-size: 6vw;
      font-weight: normal;
 
-.socials {
+div.socials {
   display: block;
   margin-left: auto;
   margin-right: auto;
