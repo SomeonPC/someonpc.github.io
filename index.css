@@ -13,6 +13,10 @@ body {
  div.text h1{
      font-size: 9vw;
      font-weight: bold;
+       width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
  div.text p1{
      font-size: 6vw;
