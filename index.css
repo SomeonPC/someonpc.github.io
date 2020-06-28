@@ -10,14 +10,14 @@ body {
      text-align: center;
      font-family: 'Lexend Exa', sans-serif;
 }
+
  div.text h1{
      font-size: 9vw;
      font-weight: bold;
-       width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+     margin: 20vw;
+     background-color: #000000;
 }
+
  div.text p1{
      font-size: 6vw;
      font-weight: normal;
