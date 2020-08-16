@@ -6,7 +6,7 @@ body {
 }
  header {
      position: fixed;
-     top: 0;
+     top: 1vw;
      width: 93%;
      margin-left: 2%;
      margin-right: 5%;
