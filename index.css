@@ -12,6 +12,7 @@ body {
      margin-right: 5%;
      text-align: center;
      font-size: 7vw;
+     font-family: 'Lexend Exa';
      font-weight: bold;
      background-color: #000000;
      color: white;
@@ -47,6 +48,7 @@ body {
 }
  footer {
      position: fixed;
+     font-family: 'Lexend Exa';
      bottom: 0;
      width: 100%;
      color: white;
