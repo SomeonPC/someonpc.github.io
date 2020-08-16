@@ -1,44 +1,54 @@
 body {
      color: white;
-     background-image: linear-gradient(blue, violet);
+     background-image: linear-gradient(45deg, blue, violet);
      background-repeat: no-repeat;
-     background-color: #23272a;
      background-attachment: fixed;
 }
-
- div.text {
-     text-align: center;
-     font-family: 'Lexend Exa', sans-serif;
-}
-
- div.text h1{
-     font-size: 9vw;
-     font-weight: bold;
-     margin: 20vw;
-     background-color: #000000;
-}
-
- div.text p1{
-     font-size: 6vw;
-     font-weight: normal;
-     margin: 20vw;
-     background-color: #000000;
-
-div.socials {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
- #overlay {
+ header {
      position: fixed;
-     width: 100%;
-     height: 100%;
      top: 0;
-     left: 0;
-     right: 0;
-     bottom: 0;
-     background-image: url("scanlines.png");
-     z-index: 2;
-     pointer-events: none;
+     width: 93%;
+     margin-left: 2%;
+     margin-right: 5%;
+     text-align: center;
+     font-size: 7vw;
+     font-weight: bold;
+     background-color: #000000;
+     color: white;
 }
- 
+ .text {
+     text-align: center;
+     font-family: 'Lexend Exa';
+     padding-top: 15vw;
+}
+ .text p1 {
+     font-size: 3vw;
+     font-weight: normal;
+     background-color: #000000;
+}
+ .socials {
+     filter: invert(100%);
+     margin-left: auto;
+     margin-right: auto;
+}
+ .column {
+     float: inherit;
+     margin-left: auto;
+     margin-right: auto;
+     width: 5%;
+     padding: 2%;
+}
+ .column:hover {
+     opacity: 0.7;
+}
+ .row::after {
+     clear: both;
+     display: table;
+}
+ footer {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     color: white;
+     text-align: center;
+}
